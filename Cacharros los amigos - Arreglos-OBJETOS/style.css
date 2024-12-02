@@ -1,0 +1,22 @@
+.navbarra{
+    background-color: black;
+}
+
+.imagen{
+    width: 150px;
+    height: 150px;
+    justify-content: center;
+}
+
+.vmodal{
+    width: 800px;
+}
+
+.carrito{
+    color: white;
+    margin-left: 1230px;
+}
+
+.toastfondo{
+    background-color: aquamarine;
+}
